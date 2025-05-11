@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|c:\\users\\z0048aur\\desktop\\hospitalproject\\hospitalproject\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|c:\\users\\z0048aur\\desktop\\hospitalproject\\hospitalproject\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|c:\\users\\z0048aur\\desktop\\hospitalproject\\hospitalproject\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|C:\\Users\\z0048aur\\Desktop\\HospitalProject\\hospitalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CB54597-FF18-4209-AE93-293D2B5B79B3}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 648,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\MedicalRecords.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\MedicalRecords.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\MedicalRecords.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\MedicalRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:22:16.812Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalRecords.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\MedicalRecords.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\MedicalRecords.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\MedicalRecords.cs",
+              "RelativeToolTip": "HospitalProject\\MedicalRecords.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:27:56.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Doctor.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Doctor.cs",
+              "RelativeToolTip": "HospitalProject\\Doctor.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:12:41.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Main.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Main.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Main.cs",
+              "RelativeToolTip": "HospitalProject\\Main.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAApwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:19:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Main.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Main.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Main.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:58:26.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Form1.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:15:25.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Form1.cs",
+              "RelativeToolTip": "HospitalProject\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:16:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Doctor.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Doctor.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:06:28.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Appointment.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Appointment.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:27:21.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Appointment.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Appointment.cs",
+              "RelativeToolTip": "HospitalProject\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:38:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Patient.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Patient.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Patient.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Patient.cs",
+              "RelativeToolTip": "HospitalProject\\Patient.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:08:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Register.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Register.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Register.cs [Design]",
+              "RelativeToolTip": "HospitalProject\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:35:29.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Register.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Register.cs",
+              "ToolTip": "C:\\Users\\z0048aur\\Desktop\\HospitalProject\\HospitalProject\\Register.cs",
+              "RelativeToolTip": "HospitalProject\\Register.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:34:57.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe.config
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.pdb
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Form1.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Properties.Resources.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.pdb
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Register.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Main.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Patient.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Doctor.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Appointment.resources
+C:\Users\z0048aur\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.MedicalRecords.resources
